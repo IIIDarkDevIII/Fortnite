@@ -1,3 +1,4 @@
+print("Loaded")
 assert(getrawmetatable)
 gmt = getrawmetatable(game)
 setreadonly(gmt, false)
